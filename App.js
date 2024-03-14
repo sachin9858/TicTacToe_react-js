@@ -219,7 +219,7 @@ const styles = {
   },
   tableCell: {
     //border:'1px solid #000',
-    padding: 25,
+    padding: 15,
   },
 };
 export default App;
